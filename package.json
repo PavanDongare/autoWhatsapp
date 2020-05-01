@@ -1,0 +1,23 @@
+{
+  "name": "autoWhatsapp",
+  "version": "1.0.0",
+  "description": "trying to send messages to list of users using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavanDongare/autoWhatsapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavanDongare/autoWhatsapp/issues"
+  },
+  "homepage": "https://github.com/PavanDongare/autoWhatsapp#readme",
+  "dependencies": {
+    "puppeteer": "^3.0.2"
+  }
+}
